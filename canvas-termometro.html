@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Smart Home - Temperatura Soggiorno</title>
+<meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=0.7">
+<meta charset="utf-8">
+<style>
+body { text-align: center; font-size: width/2pt; }
+h1 { font-weight: bold; font-size: width/2pt; }
+h2 { font-weight: bold; font-size: width/2pt; }
+button { font-weight: bold; font-size: width/2pt; }
+</style>
+<script>
+var term_width = 200, term_height = 450;
+var ws="";
+var term_val=26;
+
+function init() {
+	TermInit();
+}
+function TermInit() {
+	var canvas = document.getElementById("temp_01");
+	//canvas.style.backgroundColor = "#999999";
+	canvas.width = term_width;
+	canvas.height = term_height;
+
+	var ctx = canvas.getContext("2d");
+	ctx.translate(term_width/2, term_height - 80);
+	
+	TermUpdateView(term_val);
+}
+function TermUpdateView(temp) {
+	var canvas = document.getElementById("temp_01");
+	var ctx = canvas.getContext("2d");
+	
+	var radius = 70;
+	var offset = 5;
+	var width = 45;
+	var height = 330;
+ 
+	ctx.clearRect(-term_width/2, -350, term_width, term_height);
+	
+	if(ws != null)
+	{
+		ctx.strokeStyle="blue";
+		ctx.fillStyle="blue";
+	}
+	else
+	{
+		ctx.strokeStyle="Gray";
+		ctx.fillStyle="Gray";
+	}
+	
+	//5-step Degree
+	var x = -width/2;
+	ctx.lineWidth=2;
+	for (var i = 0; i <= 100; i+=5)
+	{
+		var y = -(height - radius)*i/100 - radius - 5;
+		ctx.beginPath();
+		ctx.lineTo(x, y);
+		ctx.lineTo(x - 20, y);
+		ctx.stroke();
+	}
+	
+	//20-step Degree
+	ctx.lineWidth=5;
+	for (var i = 0; i <= 100; i+=20)
+	{
+		var y = -(height - radius)*i/100 - radius - 5;
+		ctx.beginPath();
+		ctx.lineTo(x, y);
+		ctx.lineTo(x - 25, y);
+		ctx.stroke();
+		
+		ctx.font="20px Georgia";
+		ctx.textBaseline="middle"; 
+		ctx.textAlign="right";
+		ctx.fillText(i.toString(), x - 35, y);
+	}
+	
+	// shape
+	ctx.lineWidth=16;
+	ctx.beginPath();
+	ctx.arc(0, 0, radius, 0, 2 * Math.PI);
+	ctx.stroke();
+	
+	ctx.beginPath();
+	ctx.rect(-width/2, -height, width, height); 
+	ctx.stroke();
+	
+	ctx.beginPath();
+	ctx.arc(0, -height, width/2, 0, 2 * Math.PI);
+	ctx.stroke();
+	
+	ctx.fillStyle="#e6e6ff";
+	ctx.beginPath();
+	ctx.arc(0, 0, radius, 0, 2 * Math.PI);
+	ctx.fill();
+	
+	ctx.beginPath();
+	ctx.rect(-width/2, -height, width, height); 
+	ctx.fill();
+	
+	ctx.beginPath();
+	ctx.arc(0, -height, width/2, 0, 2 * Math.PI);
+	ctx.fill();
+	
+	// temperature value
+	if(ws != null)
+		ctx.fillStyle="#ff1a1a";
+	else
+		ctx.fillStyle="Gray";
+		
+	ctx.beginPath();
+	ctx.arc(0, 0, radius - offset, 0, 2 * Math.PI);
+	ctx.fill();
+	
+	temp = Math.round(temp);
+	var y = (height - radius)*temp/100.0 + radius + 5; 
+	ctx.beginPath();
+	ctx.rect(-width/2 + offset, -y, width - 2*offset, y); 
+	ctx.fill();
+	
+	if(ws != null)
+	{
+		ctx.fillStyle="white";
+		ctx.font="bold 34px Georgia";
+		ctx.textBaseline="middle"; 
+		ctx.textAlign="center";
+		ctx.fillText(temp.toString() + "°C", 0, 0);
+	}
+}
+
+window.onload = init;
+</script>
+</head>
+<body>
+<h1>My Smart Home - Temperatura Soggiorno</h1>
+<canvas id="temp_01"></canvas>
+</body>
+</html>
