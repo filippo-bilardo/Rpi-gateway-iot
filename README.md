@@ -23,6 +23,7 @@
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline; white-space: pre-wrap;">Obiettivi didattici</span></span></div>
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b">
 </span>
+<br />
 <div>
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"></span></span><br />
 </span><br />
@@ -57,9 +58,11 @@
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt; white-space: normal;">
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"><span id="docs-internal-guid-0d91fc84-7fff-ccb1-3555-46e8e3536246"></span></span></span></span></div>
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f">
+</span></span></span>
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;">
-<span style="background-color: #f8e71c; color: black; font-family: &quot;oswald&quot;; font-size: 30pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;"><br /></span>
-<span style="background-color: #f8e71c; color: black; font-family: &quot;oswald&quot;; font-size: 30pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;">Teoria di riferimento sulla programmazione dei Socket</span></div>
+<span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"><span style="background-color: #f8e71c; color: black; font-family: &quot;oswald&quot;; font-size: 30pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;"><br /></span>
+<span style="background-color: #f8e71c; color: black; font-family: &quot;oswald&quot;; font-size: 30pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;">Teoria di riferimento sulla programmazione dei Socket</span></span></span></span></div>
+<span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f">
 </span></span></span><br />
 <div>
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"></span></span><br />
@@ -69,22 +72,28 @@
 </span></span></span></span></span></ul>
 <span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f">
 <span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f">
+</span></span></span></span></span><br />
 <div>
-<br /></div>
+<span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"><br /></span></span></span></span></span></div>
+<span id="docs-internal-guid-98243406-7fff-c38b-5461-56f7278a607b"><span style="background-color: #f8e71c; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f">
 <div>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5"></span><br />
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt;">
 </div>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
 </span>
+<br />
 <div style="-webkit-text-stroke-width: 0px; background-color: #f8e71c; color: black; font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f"></span></span><br /></span>
+<br />
 <ul style="font-family: Oswald; font-size: 30pt; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;"></ul>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f64bbc88-7fff-07f5-c880-3b08c465c76f">
 </span></span></span></div>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
+</span>
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt;">
-<span style="background-color: #f8e71c; color: black; font-family: &quot;oswald&quot;; font-size: 30pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;">Il protocollo HTTP</span></div>
+<span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5"><span style="background-color: #f8e71c; color: black; font-family: &quot;oswald&quot;; font-size: 30pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;">Il protocollo HTTP</span></span></div>
+<span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
 <ul style="font-family: Oswald; font-size: 30pt; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;">
 <li dir="ltr" style="background-color: transparent; font-family: &quot;Playfair Display&quot;; font-size: 18pt; font-variant-east-asian: normal; font-variant-numeric: normal; list-style-type: disc; vertical-align: baseline; white-space: pre;"><span id="docs-internal-guid-0cceb814-7fff-57a3-0b9d-62b7cfd0bb73"><a href="http://www-db.deis.unibo.it/courses/TW/PDF/1.03.HTTP.pdf" style="text-decoration-line: none;"><span style="background-color: transparent; color: #01afd1; font-size: 18pt; vertical-align: baseline; white-space: pre-wrap;">http://www-db.deis.unibo.it/courses/TW/PDF/1.03.HTTP.pdf</span></a></span></li>
 </ul>
@@ -113,24 +122,28 @@
 </span></ul>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
 </span>
+<br />
 <div>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5"><span id="docs-internal-guid-1d459ff9-7fff-2579-14ae-525bb534e381"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline; white-space: pre-wrap;">Modifica del file html</span></span></span></div>
 <span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
+</span>
 <div>
-<ul style="font-family: Oswald; font-size: 30pt; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;">
+<ul style="font-family: Oswald; font-size: 30pt; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;"><span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
 <li dir="ltr" style="background-color: transparent; font-family: Arial; font-size: 18pt; font-variant-east-asian: normal; font-variant-numeric: normal; list-style-type: disc; vertical-align: baseline; white-space: pre;"><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <span id="docs-internal-guid-d26a4e6e-7fff-7ef5-91ac-0979850c6a31"><span style="background-color: transparent; font-size: 18pt; font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline; white-space: pre-wrap;">Realizzazione di una routine, in grado di trovare la riga del file html contenente il dato di temperatura da visualizzare e modificarla inserendo il nuovo dato</span></span></div>
 </li>
-</ul>
+</span></ul>
 <div>
-<span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><br /></span></span></div>
+<span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><br /></span></span></span></div>
 </div>
+<span id="docs-internal-guid-352185c5-7fff-277e-694f-8d4c024338c5">
 <div>
 <span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846"></span><br />
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt;">
 <span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline; white-space: pre-wrap;">Manipolazione del contenuto dei file</span></span></div>
 <span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846">
 </span>
+<br />
 <ul style="margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846">
 <li dir="ltr" style="background-color: transparent; font-variant-east-asian: normal; font-variant-numeric: normal; list-style-type: disc; vertical-align: baseline;"><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;">Realizzazione di una routine, in grado di restituire l’intero contenuto del file sottoforma di stringa 
@@ -138,8 +151,10 @@
 </li>
 </span></ul>
 <span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846">
+</span>
 <div>
-<br /></div>
+<span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846"><br /></span></div>
+<span id="docs-internal-guid-cd149ce6-7fff-eb3f-069e-b8dfc544e846">
 <div>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"></span><br />
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt;">
@@ -147,8 +162,10 @@
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline; white-space: pre-wrap;">Test della comunicazione seriale tramite Uart</span></span></div>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705">
 </span>
+<br />
 <div>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"></span><br /></span>
+<br />
 <ul style="margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
 <li dir="ltr" style="background-color: transparent; font-variant-east-asian: normal; font-variant-numeric: normal; list-style-type: disc; vertical-align: baseline;"><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;">Scrivere un semplice programma che visualizzi su console i dati ricevuti tramite porta seriale</span></span></div>
@@ -160,48 +177,55 @@
 </span></span></ul>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
 </span></span>
+<br />
 <div>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><br /></span></span></div>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
+</span></span>
 <div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"></span><br />
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"></span><br /></span></span>
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;">
-<span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;"><br /></span>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;">Realizzazione del server web</span></span></div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3">
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;"><br /></span>
+<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;">Realizzazione del server web</span></span></span></span></div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3">
 </span>
+</span></span><br />
 <div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"></span><br /></span>
-<ul style="margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"></span><br /></span>
+</span></span><br />
+<ul style="margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
 <li dir="ltr" style="background-color: transparent; font-variant-east-asian: normal; font-variant-numeric: normal; list-style-type: disc; vertical-align: baseline;"><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;">Integrare le funzionalità precedentemente implementate e Realizzare un Gateway IOT per la visualizzazione remota dei dati provenienti dai sensori</span></span></div>
 </li>
-</span></span></ul>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
+</span></span></span></span></ul>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
 </span></span>
-<div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><br /></span></span>
 </span></span><br />
+<div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><br /></span></span>
+</span></span></span></span><br />
 <div dir="ltr" style="line-height: 1.2; margin-bottom: 0pt; margin-top: 0pt; white-space: pre-wrap;">
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;"><br /></span>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;">Repository Github</span></span></span></span></div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3" style="font-family: &quot;times new roman&quot;; font-size: small; white-space: normal;"></span></span></span><br /></span></span>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;"><br /></span>
+<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-family: &quot;oswald&quot;; font-size: 30pt; vertical-align: baseline;">Repository Github</span></span></span></span></span></span></div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3" style="font-family: &quot;times new roman&quot;; font-size: small; white-space: normal;"></span></span></span><br /></span></span>
+</span></span><br />
 <div>
 <div style="margin: 0px;">
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"></span></span></span></div>
-<ul style="margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"></span></span></span></span></span></div>
+<ul style="margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
 <li dir="ltr" style="background-color: transparent; font-variant-east-asian: normal; font-variant-numeric: normal; list-style-type: disc; vertical-align: baseline;"><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <div style="margin: 0px;">
 <a href="https://github.com/filippo-bilardo/gateway-iot.git" style="font-family: arial; font-size: 24px; text-decoration-line: none; white-space: pre-wrap;"><span style="background-color: transparent; color: #01afd1; font-family: &quot;playfair display&quot;; font-size: 18pt; vertical-align: baseline;">https://github.com/filippo-bilardo/gateway-iot.git</span></a></div>
 </div>
 </li>
-</span></span></span></ul>
+</span></span></span></span></span></ul>
 </div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><span id="docs-internal-guid-9b6cff86-7fff-5da2-7f8d-bd90f16f7fff"><span style="background-color: transparent; font-family: &quot;playfair display&quot;; font-size: 18pt; vertical-align: baseline;"> </span></span></span></span></span></span></div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
-</span></span></div>
-<span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3">
-</span></div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span style="font-family: &quot;arial&quot;;"><span style="font-size: 24px; white-space: pre-wrap;"><span id="docs-internal-guid-9b6cff86-7fff-5da2-7f8d-bd90f16f7fff"><span style="background-color: transparent; font-family: &quot;playfair display&quot;; font-size: 18pt; vertical-align: baseline;"> </span></span></span></span></span></span></span></span></div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
+</span></span></span></span></div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;"><span id="docs-internal-guid-f6a5cc90-7fff-76f7-f728-1f983a97eac3">
+</span></span></span></div>
+<span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705"><span style="font-variant-east-asian: normal; font-variant-numeric: normal; vertical-align: baseline;">
 </span></span></div>
 <span id="docs-internal-guid-6e4204c6-7fff-ccc3-93ea-1a5104fb7705">
 </span></div>
